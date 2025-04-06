@@ -87,6 +87,16 @@ apresentacao_imagem {
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
 }
 
+.tabela {
+     /* border-collapse:inherit; define a separação entre as bordar*/
+    padding: 5px;
+    text-align:center;
+    border: solid rgb(245, 209, 9);
+    float:right;
+    color: #0057B7;
+    /*display: flex;*/
+}
+
 .rodape {
     padding: 0;
     background-color: #060707;
